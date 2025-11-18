@@ -5,10 +5,11 @@
 
 
 By- Subodh Bharti, Data Scientist (Cogneus pvt ltd)
-Executive summary 
+
+### Executive summary 
     • Clinical trial site analysis is a critical component of clinical research management that ensures the efficient, ethical, and successful execution of trials. It involves evaluating and monitoring trial sites based on performance, patient recruitment, geographic distribution, compliance, and operational efficiency. The primary objective is to enable data-driven decision-making for optimizing trial outcomes and resource allocation. 
 
-Table of contents
+### Table of contents
     1. Data & methods
     2. Dashboard highlights (charts & interpretation)
     3. Site-level analysis & hotspot detection
